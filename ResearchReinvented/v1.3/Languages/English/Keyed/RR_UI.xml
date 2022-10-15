@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<RR_PrototypePrefix>[Prototype]</RR_PrototypePrefix>
-	<RR_PrototypeLabel>Prototype</RR_PrototypeLabel>
+	<RR_PrototypePrefix>[Прототип]</RR_PrototypePrefix>
+	<RR_PrototypeLabel>Прототип</RR_PrototypeLabel>
 	
-	<RR_EquivalentResearchBench>Equivalent research bench</RR_EquivalentResearchBench>
-	<RR_EquivalentResearchBench_desc>This kit provives portable versions of the tools avaiable at this type of research bench.</RR_EquivalentResearchBench_desc>
-	<RR_EquivalentResearchFacilities>Equivalent research facilities</RR_EquivalentResearchFacilities>
-	<RR_EquivalentResearchFacilities_desc>This kit provives portable versions of these research facilities.</RR_EquivalentResearchFacilities_desc>
-	<RR_RemoteConnectionFacility>Remote connection facility</RR_RemoteConnectionFacility>
-	<RR_RemoteConnectionFacility_desc>Establishes connection to research benches (and their networked facilities) through this facility.</RR_RemoteConnectionFacility_desc>
-	<RR_UplinkResearchSpeedFactor>Research speed factor (via uplink)</RR_UplinkResearchSpeedFactor>
-	<RR_UplinkResearchSpeedFactor_desc>Research speed multiplier provided by remote connection to the research facility.</RR_UplinkResearchSpeedFactor_desc>
+	<RR_EquivalentResearchBench>Эквивалентный исследовательский стенд</RR_EquivalentResearchBench>
+	<RR_EquivalentResearchBench_desc>Этот комплект содержит переносные версии инструментов, доступных на исследовательском стенде такого типа.</RR_EquivalentResearchBench_desc>
+	<RR_EquivalentResearchFacilities>Эквивалентные исследовательские центры</RR_EquivalentResearchFacilities>
+	<RR_EquivalentResearchFacilities_desc>В этом наборе представлены портативные версии этих исследовательских установок.</RR_EquivalentResearchFacilities_desc>
+	<RR_RemoteConnectionFacility>Возможность удаленного подключения</RR_RemoteConnectionFacility>
+	<RR_RemoteConnectionFacility_desc>Устанавливает соединение с исследовательскими стендами (и их сетевыми объектами) через этот объект.</RR_RemoteConnectionFacility_desc>
+	<RR_UplinkResearchSpeedFactor>Фактор скорости исследования (через аплинк)</RR_UplinkResearchSpeedFactor>
+	<RR_UplinkResearchSpeedFactor_desc>Множитель скорости исследования, обеспечиваемый удаленным подключением к исследовательскому центру.</RR_UplinkResearchSpeedFactor_desc>
 </LanguageData>

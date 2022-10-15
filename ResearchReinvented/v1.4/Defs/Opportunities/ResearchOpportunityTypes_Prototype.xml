@@ -2,22 +2,22 @@
 <Defs>  
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="PrototypeOpportunity">
 		<defName>PrototypeConstruction</defName>
-		<header_Direct>prototype construction</header_Direct>
-		<shortDesc_Direct>Build a prototype to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Создание прототипа</header_Direct>
+		<shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</shortDesc_Direct>
 		<category_Direct>Prototyping</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="PrototypeOpportunity">
 		<defName>PrototypeTerrainConstruction</defName>
-		<header_Direct>prototype construction</header_Direct>
-		<shortDesc_Direct>Build a prototype to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Создание прототипа</header_Direct>
+		<shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</shortDesc_Direct>
 		<category_Direct>Prototyping</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="PrototypeOpportunity">
 		<defName>PrototypeProduction</defName>
-		<header_Direct>prototype production</header_Direct>
-		<shortDesc_Direct>Make a prototype to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Создание прототипа</header_Direct>
+		<shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</shortDesc_Direct>
 		<category_Direct>Prototyping</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 </Defs>

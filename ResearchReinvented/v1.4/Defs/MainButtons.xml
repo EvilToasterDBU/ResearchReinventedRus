@@ -2,8 +2,8 @@
 <Defs>
   <MainButtonDef>
     <defName>ResearchReinvented</defName>
-    <label>project</label>
-    <description>Manage current research project.</description>
+    <label>Проект</label>
+    <description>Управление текущим исследовательским проектом.</description>
     <workerClass>PeteTimesSix.ResearchReinvented.Rimworld.UI.MainButtonWorker_ToggleResearchReinventedTab</workerClass>
     <tabWindowClass>PeteTimesSix.ResearchReinvented.Rimworld.UI.MainTabWindow_ResearchReinvented</tabWindowClass>
     <order>61</order>

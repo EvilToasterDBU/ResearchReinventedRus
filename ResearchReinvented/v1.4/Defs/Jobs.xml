@@ -4,28 +4,28 @@
    <JobDef>
     <defName>RR_AnalyseInPlace</defName>
     <driverClass>PeteTimesSix.ResearchReinvented.Rimworld.JobDrivers.JobDriver_AnalyseInPlace</driverClass>
-    <reportString>examining {0}.</reportString>
+    <reportString>Изучает {0}.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
   
    <JobDef>
     <defName>RR_Analyse</defName>
     <driverClass>PeteTimesSix.ResearchReinvented.Rimworld.JobDrivers.JobDriver_Analyse</driverClass>
-    <reportString>examining {0} at {1}.</reportString>
+    <reportString>Изучает {0} на {1}.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
   
   <JobDef>
     <defName>RR_AnalyseTerrain</defName>
     <driverClass>PeteTimesSix.ResearchReinvented.Rimworld.JobDrivers.JobDriver_AnalyseTerrain</driverClass>
-    <reportString>analysing terrain.</reportString>
+    <reportString>Анализ местности.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
   
   <JobDef>
     <defName>RR_Research</defName>
     <driverClass>PeteTimesSix.ResearchReinvented.Rimworld.JobDrivers.JobDriver_ResearchRR</driverClass>
-    <reportString>researching.</reportString>
+    <reportString>Исследует.</reportString>
     <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
   </JobDef>
 

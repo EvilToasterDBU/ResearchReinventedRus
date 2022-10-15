@@ -3,8 +3,8 @@
 
  <StatDef>
     <defName>FieldResearchSpeedMultiplier</defName>
-    <label>field research speed multiplier</label>
-    <description>Affects how fast this person performs research in the field.</description>
+    <label>Множитель скорости полевых исследований</label>
+    <description>Влияет на то, как быстро этот человек проводит исследования в этой области.</description>
     <category>PawnWork</category>
     <defaultBaseValue>0.5</defaultBaseValue>
     <minValue>0.5</minValue>

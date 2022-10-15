@@ -12,114 +12,114 @@
 
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Theory</defName>
-		<label>theory</label>
+		<label>теория</label>
 		<targetFractionMultiplier>0.0</targetFractionMultiplier>
 		<targetIterations>1.0</targetIterations>
 		<infiniteOverflow>true</infiniteOverflow>
 		<researchSpeedMultiplier>1.0</researchSpeedMultiplier>
 		<priority>1000</priority>
 		<color>(187,250,250)</color>
-		<description>Theoretical or abstract research.</description>
+		<description>Теоретическое или абстрактное исследование.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Prototyping</defName>
-		<label>prototyping</label>
+		<label>Прототипирование</label>
 		<targetIterations>2.0</targetIterations>
 		<priority>800</priority>
 		<availableAtOverallProgress>0.3~1.0</availableAtOverallProgress>
 		<color>(187,250,200)</color>
-		<description>Construction of prototypes. Prototypes take much longer to produce and are typically of lower quality due to their experimental nature. The researcher will require both research skill as well as the product's applicable work skill.</description>
+		<description>Построение прототипов. Производство прототипов занимает гораздо больше времени и, как правило, имеет более низкое качество из-за их экспериментального характера. От исследователя потребуются как исследовательские навыки, так и применимые к продукту рабочие навыки.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Tooling</defName>
-		<label>tooling</label>
+		<label>Инструменты</label>
 		<targetIterations>2.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>700</priority>
 		<color>(250,240,187)</color>
-		<description>Analysis of tools used in the production of the researched products.</description>
+		<description>Анализ инструментов, используемых при производстве исследуемой продукции.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>ReverseEngineering</defName>
-		<label>reverse engineering</label>
+		<label>Реверс-инжиниринг</label>
 		<targetIterations>4.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>600</priority>
 		<color>(250,200,187)</color>
-		<description>Reverse engineering of existing sample products.</description>
+		<description>Реверс-инжиниринг существующих образцов продукции.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>ForwardEngineering</defName>
-		<label>production experience</label>
+		<label>Производственный опыт</label>
 		<targetIterations>15.0</targetIterations>
 		<researchSpeedMultiplier>2.0</researchSpeedMultiplier>
 		<priority>599</priority>
 		<color>(250,187,225)</color>
-		<description>Gathering experience from products with an already known production process.</description>
+		<description>Получение опыта от продуктов с уже известным производственным процессом.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Logistics</defName>
-		<label>logistics</label>
+		<label>Логистика</label>
 		<targetIterations>2.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>500</priority>
 		<color>(215,180,90)</color>
-		<description>Determining effective means of resupply.</description>
+		<description>Определение эффективных средств снабжения.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Geology</defName>
-		<label>geology</label>
+		<label>Геология</label>
 		<targetIterations>5.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>400</priority>
 		<color>(190,120,80)</color>
-		<description>Analysis of geological samples.</description>
+		<description>Анализ геологических проб.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Biology</defName>
-		<label>biology</label>
+		<label>Биология</label>
 		<targetIterations>5.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>350</priority>
 		<color>(105,225,90)</color>
-		<description>Analysis of biological samples, such as plant cuttings or seeds.</description>
+		<description>Анализ биологических образцов, таких как черенки или семена растений.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Chemistry</defName>
-		<label>chemistry</label>
+		<label>Химия</label>
 		<targetIterations>5.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>340</priority>
 		<color>(200,225,120)</color>
-		<description>Analysis of chemical samples, such as pharmaceuticals or other drugs.</description>
+		<description>Анализ химических образцов, таких как фармацевтические препараты или другие средства.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Gastronomy</defName>
-		<label>gastronomy</label>
+		<label>Гастрономия</label>
 		<targetIterations>10.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>320</priority>
 		<color>(220,220,190)</color>
-		<description>Analysis of edible ingredients or meals.</description>
+		<description>Анализ пищевых ингредиентов или блюд.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef ParentName="ResearchOpportunityCategoryBase">
 		<defName>Material</defName>
-		<label>material studies</label>
+		<label>Изучение материалов</label>
 		<targetIterations>5.0</targetIterations>
 		<researchSpeedMultiplier>4.0</researchSpeedMultiplier>
 		<priority>300</priority>
 		<color>(205,160,250)</color>
-		<description>Studies of viability of possible raw materials used in construction or production.</description>
+		<description>Изучение возможного сырья, используемого в строительстве или производстве.</description>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityCategoryDef>
 	
 </Defs>

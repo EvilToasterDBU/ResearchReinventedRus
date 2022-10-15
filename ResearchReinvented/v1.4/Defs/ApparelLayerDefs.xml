@@ -2,7 +2,7 @@
 <Defs>
   <ApparelLayerDef>
     <defName>Satchel</defName>
-    <label>satchel</label>
+    <label>Сумка</label>
     <drawOrder>350</drawOrder>
   </ApparelLayerDef>
 </Defs>

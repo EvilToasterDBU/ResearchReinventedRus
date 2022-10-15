@@ -3,26 +3,26 @@
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>BasicResearch</defName>
 		<jobDef>RR_Research</jobDef>
-		<header_Direct>basic research</header_Direct>
-		<shortDesc_Direct>Stare at a research bench like a big dummy.</shortDesc_Direct>
+		<header_Direct>Базовые исследования</header_Direct>
+		<shortDesc_Direct>Смотри на исследовательский стенд, как на большой манекен.</shortDesc_Direct>
 		<category_Direct>Theory</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseProductionFacility</defName>
 		<jobDef>RR_AnalyseInPlace</jobDef>
-		<header_Direct>tooling tests</header_Direct>
-		<header_Ancestor>postulate tool improvements</header_Ancestor>
-		<shortDesc_Direct>Examine which tools could be used to make stuff.</shortDesc_Direct>
+		<header_Direct>Тесты инструментов</header_Direct>
+		<header_Ancestor>Постулировать улучшения инструментов</header_Ancestor>
+		<shortDesc_Direct>Изучите, какие инструменты можно использовать для изготовления вещей.</shortDesc_Direct>
 		<category_Direct>Tooling</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>Analyse</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>reverse engineer</header_Direct>
-		<header_Ancestor>gather manufacturing experience</header_Ancestor>
-		<shortDesc_Direct>Reverse engineer a thing to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Реверс-инжиниринг</header_Direct>
+		<header_Ancestor>Набраться производственного опыта </header_Ancestor>
+		<shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>ReverseEngineering</category_Direct>
 		<category_Ancestor>ForwardEngineering</category_Ancestor>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
@@ -30,33 +30,33 @@
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseRawFood</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>determine taste profile</header_Direct>
-		<shortDesc_Direct>Reverse engineer a thing to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Определить профиль вкуса</header_Direct>
+		<shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Gastronomy</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFood</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>reproduce recipe</header_Direct>
-		<shortDesc_Direct>Reverse engineer a thing to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Воспроизвести рецепт</header_Direct>
+		<shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Gastronomy</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseDrug</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>reverse engineer drug</header_Direct>
-		<shortDesc_Direct>Reverse engineer a thing to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Реверс-инжиниринг веществ</header_Direct>
+		<shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Chemistry</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseInPlace</defName>
 		<jobDef>RR_AnalyseInPlace</jobDef>
-		<header_Direct>reverse engineer (at location)</header_Direct>
-		<header_Ancestor>gather construction experience</header_Ancestor>
-		<shortDesc_Direct>Reverse engineer a thing to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Реверс-инжиниринг (на месте)</header_Direct>
+		<header_Ancestor>Набраться опыта в строительстве</header_Ancestor>
+		<shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>ReverseEngineering</category_Direct>
 		<category_Ancestor>ForwardEngineering</category_Ancestor>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
@@ -64,89 +64,89 @@
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalysePlant</defName>
 		<jobDef>RR_AnalyseInPlace</jobDef>
-		<header_Direct>observe plant growth (at location)</header_Direct>
-		<shortDesc_Direct>Analyse a plant to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Наблюдать за ростом растений (на месте)</header_Direct>
+		<shortDesc_Direct>Проанализируйте растение, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Biology</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseHarvestProduct</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>examine harvest products</header_Direct>
-		<shortDesc_Direct>Analyse harvest products to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Осматривать продукты урожая</header_Direct>
+		<shortDesc_Direct>Анализ продуктов урожая, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Biology</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseIngredients</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>material analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ материала</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Material</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseIngredientsDrug</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>chemical compound analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ химических соединений</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Chemistry</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseIngredientsFood</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>ingredient analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ ингредиентов</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Gastronomy</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseIngredientsRawFood</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>ingredient analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ ингредиентов</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Gastronomy</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFuelDrug</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>active ingredient analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ активного ингредиента</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Chemistry</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFuelFood</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>nutrient content analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ содержания питательных веществ</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Gastronomy</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 		<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFuelFlammable</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>fuel efficiency analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ топливной эффективности</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Logistics</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFuel</defName>
 		<jobDef>RR_Analyse</jobDef>
-		<header_Direct>resupply material analysis</header_Direct>
-		<shortDesc_Direct>Analyse materials to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ средств снабжения</header_Direct>
+		<shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Logistics</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseFloor</defName>
 		<jobDef>RR_AnalyseTerrain</jobDef>
-		<header_Direct>reverse engineer floor</header_Direct>
-		<header_Ancestor>gather construction experience</header_Ancestor>
-		<shortDesc_Direct>Analyse terrain to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Реверс-инжиниринг пола</header_Direct>
+		<header_Ancestor>Набраться опыта в строительстве</header_Ancestor>
+		<shortDesc_Direct>Анализируйте местность, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>ReverseEngineering</category_Direct>
 		<category_Ancestor>ForwardEngineering</category_Ancestor>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
@@ -154,16 +154,16 @@
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseSoil</defName>
 		<jobDef>RR_AnalyseTerrain</jobDef>
-		<header_Direct>soil analysis</header_Direct>
-		<shortDesc_Direct>Analyse soil to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ почвы</header_Direct>
+		<shortDesc_Direct>Проанализируйте почву, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Geology</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 	
 	<PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef ParentName="JobBasedOpportunity">
 		<defName>AnalyseTerrain</defName>
 		<jobDef>RR_AnalyseTerrain</jobDef>
-		<header_Direct>terrain analysis</header_Direct>
-		<shortDesc_Direct>Analyse terrain to figure out stuff.</shortDesc_Direct>
+		<header_Direct>Анализ местности</header_Direct>
+		<shortDesc_Direct>Анализируйте местность, чтобы разобраться.</shortDesc_Direct>
 		<category_Direct>Geology</category_Direct>
 	</PeteTimesSix.ResearchReinvented.Defs.ResearchOpportunityTypeDef>
 </Defs>

@@ -1,34 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Research Reinvented</name>
-	<author>PeteTimesSix</author>  
-	<packageId>PeteTimesSix.ResearchReinvented</packageId>
+	<name>Research Reinvented Rus</name>
+	<author>EvilToasterDBU</author>  
+	<packageId>EvilToasterDBU.ResearchReinventedRus</packageId>
 	<supportedVersions>
 		<li>1.3</li>
 		<li>1.4</li>
 	</supportedVersions>
-	<url>https://github.com/PeteTimesSix/ResearchReinvented</url>
 	<modDependencies>
       <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <packageId>PeteTimesSix.ResearchReinvented</packageId>
+        <displayName>ResearchReinvented</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2868392160</steamWorkshopUrl>
       </li>
     </modDependencies>
-	<loadBefore>
-		<li>Uuugggg.ReplaceStuff</li>
-	</loadBefore>
 	<loadAfter>
-		<li>brrainz.harmony</li>
+		<li>PeteTimesSix.ResearchReinvented</li>
 	</loadAfter>
 	<description>
-What if inventing thing was not as simple as just thinking about the idea real hard for a few weeks? 
-	
-You might figure out how to make pemmican by analysing various ingredients for their nutritional content or experimenting at a campfire. 
-Learning how to sew clothing for nobility might be easier if you already have some noble clothing at hand to take inspiration from. 
-Once you have a basic idea of how to construct electrical generators, you might attempt to build a prototype.
-And hey, if you want to invent television, maybe you can learn something from all those broken down screens in those ancient vaults?
-	
- &lt;i&gt;More to come ...?&lt;/i&gt;
+	Русский перевод для мода Research Reinvented
 	</description>
 </ModMetaData>

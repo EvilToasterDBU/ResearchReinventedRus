@@ -3,8 +3,8 @@
   
   <ThingDef ParentName="ApparelBase">
     <defName>RR_FieldResearchKitSimple</defName>
-    <label>simple field research kit</label>
-    <description>This basic field research kit contains the tools necessary to perform research in the field, where a researcher does not have access to a full-sized research bench.</description>
+    <label>Простой набор для полевых исследований</label>
+    <description>Этот базовый набор для полевых исследований содержит инструменты, необходимые для проведения исследований в полевых условиях, когда у исследователя нет доступа к полноразмерному исследовательскому столу.</description>
     <techLevel>Neolithic</techLevel>
 	<equippedStatOffsets>
       <FieldResearchSpeedMultiplier>0.25</FieldResearchSpeedMultiplier>
@@ -70,8 +70,8 @@
   
   <ThingDef ParentName="ApparelBase">
     <defName>RR_FieldResearchKitHiTech</defName>
-    <label>field research kit</label>
-    <description>This advanced field research kit contains the tools necessary to perform research in the field, where a researcher does not have access to a full-sized research bench. The advanced tools in this kit allow researching technologies that would ordinarily require a hi-tech research bench.</description>
+    <label>Набор для полевых исследований</label>
+    <description>Этот расширенный набор для полевых исследований содержит инструменты, необходимые для проведения исследований в полевых условиях, когда у исследователя нет доступа к полноразмерному исследовательскому столу. Передовые инструменты в этом наборе позволяют исследовать технологии, которые обычно требуют высокотехнологичного исследовательского стола.</description>
     <techLevel>Industrial</techLevel>
 	<equippedStatOffsets>
       <FieldResearchSpeedMultiplier>0.5</FieldResearchSpeedMultiplier>
@@ -136,8 +136,8 @@
   
   <ThingDef ParentName="ApparelBase">
     <defName>RR_FieldResearchKitMultiAnalyzer</defName>
-    <label>field research analyzer-kit</label>
-    <description>This advanced field research kit contains the tools necessary to perform research in the field, where a researcher does not have access to a full-sized research bench. The advanced tools in this kit allow researching technologies that would ordinarily require a hi-tech research bench. An expansion module contains a portable microanalyzer.</description>
+    <label>Комплект анализатора для полевых исследований</label>
+    <description>Этот расширенный набор для полевых исследований содержит инструменты, необходимые для проведения исследований в полевых условиях, когда у исследователя нет доступа к полноразмерному исследовательскому столу. Передовые инструменты в этом наборе позволяют исследовать технологии, которые обычно требуют высокотехнологичного исследовательского стола. Модуль расширения содержит портативный микроанализатор.</description>
     <techLevel>Industrial</techLevel>
 	<equippedStatOffsets>
       <FieldResearchSpeedMultiplier>0.5</FieldResearchSpeedMultiplier>
@@ -205,8 +205,8 @@
   
   <ThingDef ParentName="ApparelBase">
     <defName>RR_FieldResearchKitRemote</defName>
-    <label>remote field research kit</label>
-    <description>This advanced field research kit contains the tools necessary to perform research in the field, where a researcher does not have access to a full-sized research bench. The advanced tools in this kit allow researching technologies that would ordinarily require a hi-tech research bench. An expansion module contains an uplink system that allows remote usage of local research benches by connecting to their microanalyzer.</description>
+    <label>Набор для дистанционных полевых исследований</label>
+    <description>Этот расширенный набор для полевых исследований содержит инструменты, необходимые для проведения исследований в полевых условиях, когда у исследователя нет доступа к полноразмерному исследовательскому столу. Передовые инструменты в этом наборе позволяют исследовать технологии, которые обычно требуют высокотехнологичного исследовательского стола. Модуль расширения содержит систему восходящей связи, которая позволяет удаленно использовать локальные исследовательские столы, подключившись к их микроанализатору.</description>
     <techLevel>Spacer</techLevel>
 	<equippedStatOffsets>
       <FieldResearchSpeedMultiplier>0.5</FieldResearchSpeedMultiplier>
