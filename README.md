@@ -1,20 +1,7 @@
 
-# Research Reinvented Rus    [![Badge License]][License]   [![Badge Mod]][RimWorld] 
-
-
-*Русский перевод для мода [Research Reinvented].*
-
-<br>
-
-## Скачать перевод можно по кнопкам ниже:
-
-<br>
-
- [![Badge Download_Steam]][Download_Steam] *- Стим версия*<br>
- [![Badge Download_GitHub]][Download_GitHub] *- Не стим версия*
-<br>
-
-
+Русский перевод для мода [Research Reinvented].<br>![Logo](https://raw.githubusercontent.com/EvilToasterDBU/ResearchReinventedRus/main/ResearchReinvented/About/preview.png)<br>
+ [![Badge Download_Steam]][Download_Steam] [![Badge Download_GitHub]][Download_GitHub] [![Badge Mod]][RimWorld] [![Badge License]][License] 
+ 
 <!----------------------------------------------------------------------------->
 
 [RimWorld]: https://store.steampowered.com/app/294100/RimWorld/
@@ -27,6 +14,6 @@
 <!---------------------------------{ Badges }---------------------------------->
 
 [Badge License]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
-[Badge Mod]: https://img.shields.io/badge/Mod-RimWorld-cecece?style=for-the-badge
-[Badge Download_Steam]: https://img.shields.io/badge/Steam-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-green?style=for-the-badge
-[Badge Download_GitHub]: https://img.shields.io/badge/GitHub-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-green?style=for-the-badge
+[Badge Mod]: https://img.shields.io/badge/Steam-RimWorld-cecece?style=for-the-badge&logo=steam
+[Badge Download_Steam]: https://img.shields.io/badge/Steam-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-blue?style=for-the-badge&logo=steam
+[Badge Download_GitHub]: https://img.shields.io/badge/GitHub-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-green?style=for-the-badge&logo=github
