@@ -15,5 +15,5 @@
 
 [Badge License]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 [Badge Mod]: https://img.shields.io/badge/Steam-RimWorld-cecece?style=for-the-badge&logo=steam
-[Badge Download_Steam]: https://img.shields.io/badge/Steam-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-blue?style=for-the-badge&logo=steam
-[Badge Download_GitHub]: https://img.shields.io/badge/GitHub-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-green?style=for-the-badge&logo=github
+[Badge Download_Steam]: https://img.shields.io/steam/downloads/2875338932?color=blue&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B8%D0%B7%20steam&logo=steam&style=for-the-badge
+[Badge Download_GitHub]: https://img.shields.io/github/downloads/EvilToasterDBU/ResearchReinventedRus/total?color=g&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%81%20github&logo=github&style=for-the-badge
