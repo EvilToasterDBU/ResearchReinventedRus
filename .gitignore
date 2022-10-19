@@ -349,7 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# Ionide (cross platform F# VS Code tools) working folder
+# Cross-fork folders
 dir_to_ignore/
 ResearchReinvented/Source/
 ResearchReinvented/Source/*
