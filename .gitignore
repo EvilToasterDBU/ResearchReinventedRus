@@ -352,3 +352,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 dir_to_ignore/
 ResearchReinvented/Source/
+ResearchReinvented/Source/*
