@@ -353,3 +353,5 @@ MigrationBackup/
 dir_to_ignore/
 ResearchReinvented/Source/
 ResearchReinvented/Source/*
+ResearchReinvented/About/
+ResearchReinvented/About/*
