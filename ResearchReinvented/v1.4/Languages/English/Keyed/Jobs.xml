@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<RR_jobFail_needResearchKit>Нужен исследовательский набор, способный анализировать</RR_jobFail_needResearchKit>
+	<RR_jobFail_needResearchBench>Не удается найти или добраться до исследовательского стола, способного анализировать</RR_jobFail_needResearchBench>
 </LanguageData>

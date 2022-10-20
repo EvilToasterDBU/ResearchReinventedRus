@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<RR_setting_defaultCompactMode>Окно исследований по умолчанию находится в компактном режиме.</RR_setting_defaultCompactMode>
+	<RR_setting_tab_GLOBAL_CONFIG>Глобальный конфиг</RR_setting_tab_GLOBAL_CONFIG>
+	<RR_setting_tab_CATEGORY_PRESETS>Пресеты категорий</RR_setting_tab_CATEGORY_PRESETS>
+	<RR_setting_tab_CATEGORY_CONFIG>Настройка категорий</RR_setting_tab_CATEGORY_CONFIG>
+	
+	<RR_setting_tab_GLOBAL_CONFIG_tooltip>Настройте глобальные параметры Research Reinvented.</RR_setting_tab_GLOBAL_CONFIG_tooltip>
+	<RR_setting_tab_CATEGORY_PRESETS_tooltip>Выберите предустановку распределения очков исследования между категориями возможностей.</RR_setting_tab_CATEGORY_PRESETS_tooltip>
+	<RR_setting_tab_CATEGORY_CONFIG_tooltip>Настройте отдельные категории возможностей исследования.</RR_setting_tab_CATEGORY_CONFIG_tooltip>
+	
+	<RR_setting_debugPrintouts>Включить режим отладки</RR_setting_debugPrintouts>
+	<RR_setting_debugPrintouts_tooltip>При включении будут активны различные данные и визуальные эффекты разработчика..</RR_setting_debugPrintouts_tooltip>
+	
+	<RR_setting_defaultCompactMode>Окно исследований по умолчанию в компактном режиме</RR_setting_defaultCompactMode>
 	<RR_setting_defaultCompactMode_tooltip>Когда эта функция включена, окно списка исследовательских возможностей по умолчанию будет работать в компактном режиме.</RR_setting_defaultCompactMode_tooltip>
 	
 	
-	<RR_setting_kitlessResearch>Разрешить полевые исследования без исследовательского набора</RR_setting_kitlessResearch>
+	<RR_setting_kitlessResearch>Полевые исследования без исследовательского набора</RR_setting_kitlessResearch>
 	<RR_setting_kitlessResearch_tooltip>Когда эта функция включена, полевые исследования можно проводить без какого-либо исследовательского набора для исследовательских проектов, для которых требуется только простой исследовательский стол/набор.</RR_setting_kitlessResearch_tooltip>
 	
-	<RR_setting_basicResearchSpeedMult>Множитель скорости теории исследования</RR_setting_basicResearchSpeedMult>
-	<RR_setting_basicResearchSpeedMult_tooltip>Теоретическая скорость исследования будет умножена на этот процент.</RR_setting_basicResearchSpeedMult_tooltip>
+	<RR_setting_category_selector>Выбрать категорию</RR_setting_category_selector>
+	
+	<RR_setting_category_enabled>Категория включена</RR_setting_category_enabled>
+	<RR_setting_category_enabled_tooltip>Переключите это, чтобы полностью отключить эту категорию исследовательских возможностей.</RR_setting_category_enabled_tooltip>
+	
+	<RR_setting_category_availableAtOverallProgress>Доступно при общем прогрессе</RR_setting_category_availableAtOverallProgress>
+	<RR_setting_category_availableAtOverallProgress_tooltip>Определяет, на каком этапе исследования доступна эта категория.</RR_setting_category_availableAtOverallProgress_tooltip>
+	
+	<RR_setting_category_targetIterations>Целевые итерации</RR_setting_category_targetIterations>
+	<RR_setting_category_targetIterations_tooltip>Максимальные индивидуальные возможности, необходимые для завершения этой категории.</RR_setting_category_targetIterations_tooltip>
+		
+	<RR_setting_category_targetFractionMultiplier>Множитель целевой части</RR_setting_category_targetFractionMultiplier>
+	<RR_setting_category_targetFractionMultiplier_tooltip>Сгенерированные возможности пытаются разделить стоимость исследования проекта в соответствии с относительными размерами частей категорий в зависимости от этого значения.</RR_setting_category_targetFractionMultiplier_tooltip>
+	
+	<RR_setting_category_infiniteOverflow>Бесконечное переполнение</RR_setting_category_infiniteOverflow>
+	<RR_setting_category_infiniteOverflow_tooltip>Разрешить исследованиям в этой категории всегда продолжаться, если есть больше доступных возможностей этого типа.</RR_setting_category_infiniteOverflow_tooltip>
+	
+	<RR_setting_category_extraFractionMultiplier>Множитель дополнительной фракции</RR_setting_category_extraFractionMultiplier>
+	<RR_setting_category_extraFractionMultiplier_tooltip>Допущено дополнительное исследование данной категории, не вошедшей в первоначальную присвоенную ей часть.</RR_setting_category_extraFractionMultiplier_tooltip>
+	
+	<RR_setting_category_researchSpeedMultiplier>Множитель скорости исследования</RR_setting_category_researchSpeedMultiplier>
+	<RR_setting_category_researchSpeedMultiplier_tooltip>Возможности этой категории будут иметь скорость исследования, умноженную на заданный процент.</RR_setting_category_researchSpeedMultiplier_tooltip>
+	
+	<RR_setting_category_fractionAxis>Множитель общей целевой доли</RR_setting_category_fractionAxis>
+	<RR_setting_category_researchSpeedAxis>Скорость исследования</RR_setting_category_researchSpeedAxis>
+	
+	<RR_setting_category_resetToDefault>Сбросить настройки</RR_setting_category_resetToDefault>
 </LanguageData>
