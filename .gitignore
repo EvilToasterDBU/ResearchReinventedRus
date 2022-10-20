@@ -350,7 +350,6 @@ MigrationBackup/
 .ionide/
 
 # Cross-fork folders
-dir_to_ignore/
 ResearchReinvented/Source/
 ResearchReinvented/Source/*
 ResearchReinvented/About/
