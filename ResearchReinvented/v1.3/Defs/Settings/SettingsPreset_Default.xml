@@ -2,7 +2,7 @@
 <Defs>
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Default</defName>
-    <label>default</label>
+    <label>По умолчанию</label>
     <description>Предустановленные настройки по умолчанию. Исследования будут проходить быстрее, если ваша колония хорошо организована и имеет достаточное количество объектов исследования, и медленнее, если нет.</description>
 	<priority>1000</priority>
 	<categorySettingPresets>

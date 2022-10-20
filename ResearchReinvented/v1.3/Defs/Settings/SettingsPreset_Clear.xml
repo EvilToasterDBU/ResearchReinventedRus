@@ -2,7 +2,7 @@
 <Defs>
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Clear</defName>
-    <label>blank slate</label>
+    <label>чистый лист</label>
     <description>Пресет настроек без заданных значений по умолчанию.</description>
 	<priority>1</priority>
 	<categorySettingPresets>

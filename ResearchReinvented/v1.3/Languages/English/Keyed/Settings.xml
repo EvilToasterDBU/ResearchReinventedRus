@@ -11,11 +11,11 @@
 	<RR_setting_debugPrintouts>Включить режим отладки</RR_setting_debugPrintouts>
 	<RR_setting_debugPrintouts_tooltip>При включении будут активны различные данные и визуальные эффекты разработчика..</RR_setting_debugPrintouts_tooltip>
 	
-	<RR_setting_defaultCompactMode>Окно исследований по умолчанию находится в компактном режиме</RR_setting_defaultCompactMode>
+	<RR_setting_defaultCompactMode>Окно исследований по умолчанию в компактном режиме</RR_setting_defaultCompactMode>
 	<RR_setting_defaultCompactMode_tooltip>Когда эта функция включена, окно списка исследовательских возможностей по умолчанию будет работать в компактном режиме.</RR_setting_defaultCompactMode_tooltip>
 	
 	
-	<RR_setting_kitlessResearch>Разрешить полевые исследования без исследовательского набора</RR_setting_kitlessResearch>
+	<RR_setting_kitlessResearch>Полевые исследования без исследовательского набора</RR_setting_kitlessResearch>
 	<RR_setting_kitlessResearch_tooltip>Когда эта функция включена, полевые исследования можно проводить без какого-либо исследовательского набора для исследовательских проектов, для которых требуется только простой исследовательский стол/набор.</RR_setting_kitlessResearch_tooltip>
 	
 	<RR_setting_category_selector>Выбрать категорию</RR_setting_category_selector>

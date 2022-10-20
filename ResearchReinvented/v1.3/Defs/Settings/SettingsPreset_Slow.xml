@@ -2,7 +2,7 @@
 <Defs>
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Slow</defName>
-    <label>peer reviewed</label>
+    <label>проверено экспертами</label>
     <description>Ванильные настройки скорости исследования.</description>
 	<priority>600</priority>
 	<categorySettingPresets>

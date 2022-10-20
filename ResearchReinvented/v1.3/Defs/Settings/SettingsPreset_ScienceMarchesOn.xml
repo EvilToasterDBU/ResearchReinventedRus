@@ -2,7 +2,7 @@
 <Defs>
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_ScienceMarchesOn</defName>
-    <label>science marches on</label>
+    <label>наука идет вперед</label>
     <description>Нет ограничений на исследования, полученные путем прототипирования или обратного проектирования. Скорость теоретического исследования снижена.</description>
 	<priority>800</priority>
 	<categorySettingPresets>
