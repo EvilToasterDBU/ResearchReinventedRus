@@ -3,7 +3,7 @@
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Vanilla</defName>
     <label>vanilla</label>
-    <description>A settings preset that behaves identically to vanilla Rimworld.</description>
+    <description>Предустановка настроек, которая ведет себя идентично ванильному Rimworld.</description>
 	<priority>10</priority>
 	<categorySettingPresets>
 		<li>

@@ -3,7 +3,7 @@
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Faster</defName>
     <label>full steam ahead</label>
-    <description>Faster research settings preset.</description>
+    <description>Пресет с более быстрыми исследованиями.</description>
 	<priority>500</priority>
 	<categorySettingPresets>
 		<li>

@@ -3,7 +3,7 @@
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Default</defName>
     <label>default</label>
-    <description>Default settings preset. Research will be faster if your colony is well-organized and has an adequate supply of research subjects, and slower if not.</description>
+    <description>Предустановленные настройки по умолчанию. Исследования будут проходить быстрее, если ваша колония хорошо организована и имеет достаточное количество объектов исследования, и медленнее, если нет.</description>
 	<priority>1000</priority>
 	<categorySettingPresets>
 		<li>

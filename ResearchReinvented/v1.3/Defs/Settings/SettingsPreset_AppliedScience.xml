@@ -3,7 +3,7 @@
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_AppliedScience</defName>
     <label>applied science</label>
-    <description>Theoretical research is disabled. Progress requires experimentation.</description>
+    <description>Теоретические исследования отключены. Прогресс требует экспериментов.</description>
 	<priority>750</priority>
 	<categorySettingPresets>
 		<li>

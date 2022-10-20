@@ -3,7 +3,7 @@
   <PeteTimesSix.ResearchReinvented.Defs.SettingsPresetDef>
     <defName>SettingsPreset_RR_Fastest</defName>
     <label>the information superhighway</label>
-    <description>Fastest research settings preset.</description>
+    <description>Предустановка настроек быстрого исследования.</description>
 	<priority>450</priority>
 	<categorySettingPresets>
 		<li>
